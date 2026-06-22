@@ -1,5 +1,5 @@
 <ul>
-    {{- range $item := sort .collection "Date" "desc" -}}
+    {{- range $item := sort .collection "Date" "asc" -}}
         <li>
             {{- with $item.url -}}
                 <a href="{{ $item.url | relURL }}">{{ safeHTML $item.title }}</a>
