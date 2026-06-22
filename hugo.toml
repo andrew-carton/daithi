@@ -1,0 +1,11 @@
+baseURL = 'https://dáithí.ie/'
+locale = 'en-uk'
+title = 'Blog'
+theme = 'hugo-theme-nostyleplease'
+
+[params]
+colorScheme = "dark"
+enableSearch = true
+showReadingTime = true
+
+
