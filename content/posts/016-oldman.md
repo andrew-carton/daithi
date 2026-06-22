@@ -1,5 +1,5 @@
 ---
-title: 'Old man - the kettle steady keep'
+title: 'Day 2: Old man - the kettle steady keep'
 date: 2026-06-22
 weight: 16
 draft: false
