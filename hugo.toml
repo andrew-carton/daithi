@@ -1,6 +1,6 @@
 baseURL = 'https://dáithí.ie/'
 locale = 'en-uk'
-title = 'Blog'
+title = 'Destroy my soul (and all that I am) Blog'
 theme = 'hugo-theme-nostyleplease'
 
 [params]
