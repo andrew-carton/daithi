@@ -1,7 +1,7 @@
 ---
 title: 'Day 4: Pardoning'
-date: 2026-06-24
-weight: 17
+date: 2026-06-23
+weight: 16
 draft: false
 ---
 
