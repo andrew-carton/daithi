@@ -27,10 +27,5 @@ Flash to find my doorway breach, your eyes are knitted, with kindness teach, tha
 
 Soft to find the shelter torn, a question raised, and your mission sworn? That shield a question mid flight loft, a comfort, sanity, a seal my shaped hands soft.
 
-Soft to find my crown won tame, Francis, tilted, two pathways lit a man fame, and eyes the hound the pathways bleak, what sword eternal for a dirty bird's beak. Soft to find my ears tilt won, do not tilt, paradise a name flung? Four fingers hidden to veil my theft, can you sign the hare swept left?
-
-Oh child of fortune do not loft, your maze is not a prison soft, just a child with tilted breeze, a smell a cloak to three doves upward a pig flees. Come child spun, reflect your theft, a hog has only three smells wept, that humour filthy juiced oink five, a smelly welly the eyes muck wept drive.
-
-Can you see the demon princess one? a snotty left hand kid spun straw sum? And snotty hunny reflection tie, what morcel misery, a right wing cry. That solder a child of suit middle-wear, the point is done, but not guidance a frozen table swiped frown none.
 
 
