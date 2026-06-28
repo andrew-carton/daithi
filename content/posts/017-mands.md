@@ -1,5 +1,5 @@
 ---
-title: 'Day X: Michael and Samael'
+title: 'Day 9: Michael and Samael'
 date: 2026-06-28
 weight: 17
 draft: false
