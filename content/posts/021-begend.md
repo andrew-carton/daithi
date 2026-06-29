@@ -1,5 +1,5 @@
 ---
-title: 'Day 9: Samael - the angel won'
+title: 'Day 10: Samael - the angel won'
 date: 2026-06-29
 weight: 21
 draft: false
