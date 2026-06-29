@@ -1,7 +1,7 @@
 ---
 title: 'Day 10: Samael - the angel won'
 date: 2026-06-29
-weight: 22
+weight: 23
 draft: false
 ---
 
