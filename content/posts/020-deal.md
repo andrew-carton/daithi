@@ -1,7 +1,7 @@
 ---
 title: 'Day 10: Samael - the deal - the maze'
 date: 2026-06-29
-weight: 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+weight: 20 
 draft: false
 ---
 
